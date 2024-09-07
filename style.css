@@ -1,0 +1,52 @@
+body{
+    background: lightgoldenrodyellow;
+    font-family: 'times new roman';
+}
+
+
+
+
+
+.header_div{
+    background-color: whitesmoke;
+    color:rgb(103, 3, 3);
+}
+
+
+.header_div p{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslategray;
+    letter-spacing: 2px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+
+
+
+
+.main_div button{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+
+}
+
+
+.copy_right_footer{
+    position: fixed;
+    color: darkcyan;
+    bottom: 0;
+    width: 100%;
+    background-color: lightgrey;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 8px 8px 8px; rgb (238, 37, 6);
+}
+
+
+
+
+/* Add style to the footer */
